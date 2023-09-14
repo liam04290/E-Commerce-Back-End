@@ -15,3 +15,9 @@ This is a RESTful API for product management. The API allows users to perform CR
 -Model, View, Controller Framework
 -MySQL
 -Insomnia
+
+## Video demonstration using Insomnia:
+[Google Drive Video Link](https://drive.google.com/file/d/16Cl3CKaTQF2lrdeMcTbMg4eGhSLlzPN0/view)
+
+## Photo of testing with Insomnia:
+![Route testing using Insomnia](./assets/InsomniaDemo.png)
